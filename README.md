@@ -11,7 +11,7 @@ Technology used:
  - [Backend REST  - Python](https://github.com/NazimAmin/api.ndtndt)  
  - DB - SQL
 
-## Build & development & Dependencies front-end
+### Build & development & Dependencies front-end
 
 1. Clone `git clone https://github.com/NazimAmin/ndtndt` -
 
@@ -21,7 +21,7 @@ Technology used:
 
 4. Run `grunt ` for building and `grunt serve` for preview.
 
-## Build & development & Dependencies backend
+### Build & development & Dependencies backend
 
 1. Clone `git clone https://github.com/JunXHuang/api.ndtndt` -
 

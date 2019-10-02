@@ -1,6 +1,4 @@
 ## An ebay like Proxy Bidding System
-
-
 #### ndtndt - NOT DUE TODAY, NOT DO TODAY
 
   - Includes multiple system level service roles.

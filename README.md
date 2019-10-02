@@ -19,6 +19,7 @@ Technology used:
 
 3. Run `bower install` to install bower_components
 
+
 4. Run `grunt ` for building and `grunt serve` for preview.
 
 ## Build & development & Dependencies backend
@@ -44,6 +45,7 @@ Technology used:
 
 
 ## Contributors
+
 
 Made with :hotsprings: by [@Nazim](http://github.com/nazimamin) [@Jun Huang](http://github.com/JunXHuang)
 

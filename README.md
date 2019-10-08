@@ -2,7 +2,7 @@
 #### ndtndt - NOT DUE TODAY, NOT DO TODAY
 
   - Includes multiple system level service roles.
-  - Options such as add/edit/delete, search, filter, bid, report etc. with an intuitive look.
+  - Options such as edit/add/delete, search, filter, bid, report etc. with an intuitive look.
 
 Technology used:
  - Front-end - AngularJS
